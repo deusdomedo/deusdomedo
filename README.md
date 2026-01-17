@@ -7,7 +7,7 @@
 <i>"Permaneça no caminho certo, mesmo que esteja sozinho."</i>
 </p>
 
-* 📕 **Specialist:** Offensive Security, Social Engineering, OSINT (Open Source Intelligence).
+* 📕 **Specialist:** Offensive Security, Social Engineering, OSINT.
 * 📓 **Researching:** Webscraping avançado, Automação de coleta de dados.
 * 🛡️ **Focus:** Digital Investigation, Osint, Pentest.
 
